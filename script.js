@@ -4,7 +4,7 @@ function stringChop(str, size)
 		let arr=[];
 		if(str==null)
 		{
-			retrun arr;
+			return arr;
 		}
 		
 		let ch="";
